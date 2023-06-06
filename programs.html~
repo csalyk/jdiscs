@@ -14,28 +14,32 @@
 	<body class="homepage is-preload">
 		<div id="page-wrapper">
 
-			<!-- Header -->
-				<section id="header" class="wrapper">
 
-					<!-- Logo -->
-						<div id="logo">
-							<h1><a href="index.html">JDISCS Programs</a></h1>
-<!--							<p>A</p>-->
-						</div>
+                        <!-- Header -->
+                                <section id="header" class="wrapper">
 
-					<!-- Nav -->
-						<nav id="nav">
-							<ul>
-								<li class="current"><a href="index.html">Home</a></li>
-								<li class="current"><a href="team.html">Team</a></li>
-								<li class="current"><a href="index.html">Programs</a></li>
-								<li class="current"><a href="index.html">Publications</a></li>
-								<li class="current"><a href="index.html">Data</a></li>
-							</ul>
-						</nav>
+                                        <!-- Logo -->
+                                                <div id="logo">
+                                                        <h1><a href="index.html">The JWST Disk Infrared Spectral Chemistry Survey</a></h1>
+                                                        <h1><p><font color="white">(JDISCS)</p></h1>
+                                                </div>
 
-				</section>
+                                        <!-- Nav -->
+                                                <nav id="nav">
+                                                        <ul>
+                                                                <li class="current"><a href="index.html">Home</a></li>
+                                                                <li class="current"><a href="team.html">Team</a></li>
+                                                                <li class="current"><a href="programs.html">Programs</a></li>
+                                                                <li class="current"><a href="publications.html">Publications</a></li>
+                                                                <li class="current"><a href="data.html">Data</a></li>
+                                                        </ul>
+                                                </nav>
 
+                                </section>
+
+                               <section id="main" class="wrapper style2">
+                                        <div class="title"> Programs</div>
+                                        <div class="container"></div>
 
 			<!-- Main -->
 				<section id="main" class="wrapper style2">
@@ -45,25 +49,25 @@
 										<div class="col-6 col-12-medium">
 											<section>
 												<h3 class="icon solid fa-space-shuttle"><a href="https://www.stsci.edu/jwst/science-execution/program-information.html?id=1549">The Deepest Search for Rare Molecules and Isotopologues in Planet-forming Disks (1549)</a></h3>
-												<p>PI: Pontoppidan.  Deep spectra of two bright asteroids for the construction of very high signal-to-noise ratio spectral response curves (SRFs), combined with deep spectroscopy of line-rich disks to search for isotopologues and rare molecules.</p>
+												<p style="color:gray;"> PI: Pontoppidan.  Deep spectra of two bright asteroids for the construction of very high signal-to-noise ratio spectral response curves (SRFs), combined with deep spectroscopy of line-rich disks to search for isotopologues and rare molecules.</p>
 											</section>
 										</div>
 										<div class="col-6 col-12-medium">
 											<section>
 												<h3 class="icon solid fa-globe-asia"><a href="https://www.stsci.edu/jwst/science-execution/program-information.html?id=1640">The Infrared Water Spectrum as a Tracer of Pebble Delivery to Rocky Planets (1640)</a></h3>
-												<p>PI: Banzatti. Water emission spectra of a luminosity-controlled sample of representative dust disk evolution types to measure pebble mass-fluxes delivered to inner disks.</p>
+												<p style="color:gray;">PI: Banzatti. Water emission spectra of a luminosity-controlled sample of representative dust disk evolution types to measure pebble mass-fluxes delivered to inner disks.</p>
 											</section>
 										</div>
 										<div class="col-6 col-12-medium">
 											<section>
 												<h3 class="icon solid fa-globe-americas"><a href="https://www.stsci.edu/jwst/science-execution/program-information.html?id=1584">A DSHARP-MIRI Treasury Survey of Chemistry in Planet-forming Regions (1584)</a></h3>
-												<p>PIs: Salyk, Pontoppidan. MIRI-MRS spectra of the complete sample of protoplanetary disks from the ALMA-DSHARP survey, to invesigate the effects of pebbles and planets on inner disk chemistry. </p>
+												<p style="color:gray;">PIs: Salyk, Pontoppidan. MIRI-MRS spectra of the complete sample of protoplanetary disks from the ALMA-DSHARP survey, to invesigate the effects of pebbles and planets on inner disk chemistry. </p>
 											</section>
 										</div>
 										<div class="col-6 col-12-medium">
 											<section>
 												<h3 class="icon solid fa-space-shuttle"><a href="https://www.stsci.edu/jwst/science-execution/program-information.html?id=2025">The Chemistry of Planet Formation: A JWST-ALMA Survey of 4 Planet-Forming Disks (2025)</a> </h3>
-												<p>PI: Oberg. A combined JWST-ALMA 4-disk chemical data set, used to retrieve the radial column density profiles of the main carriers of volatile C and O, of probes of the C/N/O/S gas-phase elemental ratios, and of key organic molecules across all planet-forming radii. </p>
+												<p style="color:gray;">PI: Oberg. A combined JWST-ALMA 4-disk chemical data set, used to retrieve the radial column density profiles of the main carriers of volatile C and O, of probes of the C/N/O/S gas-phase elemental ratios, and of key organic molecules across all planet-forming radii. </p>
 											</section>
 										</div>
 									</div>

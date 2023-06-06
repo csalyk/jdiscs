@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>The JWST Disk Infrared Spectral Survey (JDISCS)</title>
+		<title>The JWST Disk Infrared Spectral Chemistry Survey (JDISCS)</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,8 +19,8 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<h1><a href="index.html">JDISCS Data</a></h1>
-<!--							<p>A</p>-->
+                                                        <h1><a href="index.html">The JWST Disk Infrared Spectral Chemistry Survey</a></h1>
+                                                        <h1><p><font color="white">(JDISCS)</p></h1>
 						</div>
 
 					<!-- Nav -->
@@ -38,9 +38,9 @@
 
 			<!-- Main -->
 				<section id="main" class="wrapper style2">
-					<div class="title"></div>
+					<div class="title">Data</div>
 					<div class="container">
-                                         <p> Data provided by the team will appear here </p>
+                                         <p style="color:gray;"> Data provided by the team will appear here.  No data are available at this time. </p>
 					</div>
 				</section>
 

@@ -19,8 +19,8 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<h1><a href="index.html">The JWST Disk Infrared Spectral Chemistry Survey</a></h1>
-							<h1><p><font color="white">(JDISCS)</p></h1>
+							<h1><a href="index.html">The JWST Disk Infrared Spectral Chemistry Survey (JDISCS)</a></h1>
+<!--							<p>A</p>-->
 						</div>
 
 					<!-- Nav -->
@@ -36,27 +36,11 @@
 
 				</section>
 
-			<!-- Intro -->
-				<section id="intro" class="wrapper style1">
-					<div class="title"><font size="+2"> Objectives </font></div>
-					<div class="table">
-                                                 <ul style="list-style-type: none">
-						 <li> <font size="+2"> To <strong> characterize </strong>the chemical diversity of planet-forming regions </font> </li>
-	                                         <li><font size="+2">  To <strong> understand </strong> the origins of this chemical diversity </li>
-                                                 <li><font size="+2">  To <strong> explore </strong> the implications of chemical diversity for planets, including Earth-like worlds </li>
-                                                 </ul>
-					</div>
-				</section>
-
 			<!-- Main -->
 				<section id="main" class="wrapper style2">
-					<div class="title"> Motivation</div>
+					<div class="title"> Publications</div>
 					<div class="container">
-						<!-- Image -->
-							<a href="https://www.nasa.gov/feature/goddard/2021/nasa-s-webb-to-explore-forming-planetary-systems" class="image featured">
-								<img src="images/miri_sim.png" alt="" />
-							</a>
-
+                                         <p> Team publications will appear here. </p>
 					</div>
 				</section>
 

@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<!--
+	Escape Velocity by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>The JWST Disk Infrared Spectral Survey (JDISCS)</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header" class="wrapper">
+
+					<!-- Logo -->
+						<div id="logo">
+							<h1><a href="index.html">JDISCS Programs</a></h1>
+<!--							<p>A</p>-->
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="index.html">Home</a></li>
+								<li class="current"><a href="team.html">Team</a></li>
+								<li class="current"><a href="index.html">Programs</a></li>
+								<li class="current"><a href="index.html">Publications</a></li>
+								<li class="current"><a href="index.html">Data</a></li>
+							</ul>
+						</nav>
+
+				</section>
+
+
+			<!-- Main -->
+				<section id="main" class="wrapper style2">
+
+								<div class="feature-list">
+									<div class="row">
+										<div class="col-6 col-12-medium">
+											<section>
+												<h3 class="icon solid fa-space-shuttle"><a href="https://www.stsci.edu/jwst/science-execution/program-information.html?id=1549">The Deepest Search for Rare Molecules and Isotopologues in Planet-forming Disks (1549)</a></h3>
+												<p>PI: Pontoppidan.  Deep spectra of two bright asteroids for the construction of very high signal-to-noise ratio spectral response curves (SRFs), combined with deep spectroscopy of line-rich disks to search for isotopologues and rare molecules.</p>
+											</section>
+										</div>
+										<div class="col-6 col-12-medium">
+											<section>
+												<h3 class="icon solid fa-globe-asia"><a href="https://www.stsci.edu/jwst/science-execution/program-information.html?id=1640">The Infrared Water Spectrum as a Tracer of Pebble Delivery to Rocky Planets (1640)</a></h3>
+												<p>PI: Banzatti. Water emission spectra of a luminosity-controlled sample of representative dust disk evolution types to measure pebble mass-fluxes delivered to inner disks.</p>
+											</section>
+										</div>
+										<div class="col-6 col-12-medium">
+											<section>
+												<h3 class="icon solid fa-globe-americas"><a href="https://www.stsci.edu/jwst/science-execution/program-information.html?id=1584">A DSHARP-MIRI Treasury Survey of Chemistry in Planet-forming Regions (1584)</a></h3>
+												<p>PIs: Salyk, Pontoppidan. MIRI-MRS spectra of the complete sample of protoplanetary disks from the ALMA-DSHARP survey, to invesigate the effects of pebbles and planets on inner disk chemistry. </p>
+											</section>
+										</div>
+										<div class="col-6 col-12-medium">
+											<section>
+												<h3 class="icon solid fa-space-shuttle"><a href="https://www.stsci.edu/jwst/science-execution/program-information.html?id=2025">The Chemistry of Planet Formation: A JWST-ALMA Survey of 4 Planet-Forming Disks (2025)</a> </h3>
+												<p>PI: Oberg. A combined JWST-ALMA 4-disk chemical data set, used to retrieve the radial column density profiles of the main carriers of volatile C and O, of probes of the C/N/O/S gas-phase elemental ratios, and of key organic molecules across all planet-forming radii. </p>
+											</section>
+										</div>
+									</div>
+								</div>
+							</section>
+
+					</div>
+				</section>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
